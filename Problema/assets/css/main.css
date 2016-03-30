@@ -1,0 +1,83 @@
+footer {
+  background: #444444;
+  position: relative;
+  color: white;
+  padding: 15px; }
+
+#portada {
+  position: relative; }
+  #portada .home {
+    display: inline-block; }
+  #portada .navbar {
+    margin-bottom: 0; }
+  #portada .contact {
+    display: inline-block; }
+  #portada .tres {
+    background-image: url(../../assets/images/slider1.jpg);
+    background-repeat: none;
+    background-attachment: scroll;
+    background-position: center center;
+    border: 1px solid black;
+    height: 550px; }
+  #portada .info {
+    width: 150px;
+    height: 30px;
+    text-align: center;
+    color: black;
+    text-uppercase: 3px;
+    spaccing-letter: 5px; }
+
+#portadaset {
+  color: white; }
+  #portadaset .portadas {
+    padding: 3%;
+    height: 300px; }
+  #portadaset .pinkbanner {
+    text-align: center;
+    width: 400px;
+    height: 100px;
+    background: #FF7572; }
+  #portadaset .pinktext {
+    width: 300px;
+    height: 200px;
+    display: inline-block; }
+
+#productos .tres {
+  pading-top: 2%;
+  margin-bottom: 2%;
+  text-align: center; }
+#productos img {
+  width: 200px;
+  height: 200px;
+  margin-right: 3%;
+  padding: 5px;
+  border: 1px solid black; }
+
+#clothing .ofertas img {
+  height: 190px;
+  width: 190px;
+  border: 1px solid black; }
+
+#blog img {
+  width: 100%; }
+
+#patrocinadores {
+  padding: 5%;
+  position: relative; }
+  #patrocinadores .marca-products {
+    text-align: center;
+    padding: 5%;
+    background-image: url(../../assets/images/client-bg.jpg); }
+    #patrocinadores .marca-products img {
+      width: 150px;
+      height: 100px;
+      margin: 5px; }
+
+#portadaset .portadas {
+  height: 200px;
+  background-image: url(../../assets/images/contact.jpg); }
+
+#contactanos {
+  padding: 5%; }
+
+/*# sourceMappingURL=main.css.map */
